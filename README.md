@@ -1,2 +1,2 @@
 # FSK-Modulation
-frequency shift keying modulation for binary daat
+frequency shift keying modulation for binary data
